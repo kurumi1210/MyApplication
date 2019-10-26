@@ -7,10 +7,9 @@
     android:gravity="center"
     tools:context=".MainActivity">
 
-        <TextView
-        android:layout_width="wrap_content"
+    <EditText
+        android:layout_width="300dp"
         android:layout_height="wrap_content"
-        android:text="My New Git"
-        android:textSize="20sp"/>
+        android:hint="miao"/>
 
 </LinearLayout>
